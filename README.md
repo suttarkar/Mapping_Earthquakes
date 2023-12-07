@@ -1,6 +1,8 @@
 # Mapping_Earthquakes
 The main folder for this project is the **`Earthquake_Challenge`** folder.
 
+![Earthquake_Challenge folder](https://github.com/suttarkar/Mapping_Earthquakes/tree/main/Earthquake_Challenge)
+
 ## Overview
 
 ### Purpose
